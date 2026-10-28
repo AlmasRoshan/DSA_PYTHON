@@ -1,4 +1,6 @@
 # MEMOIZATION (TOP - BOTTOM)
+# MEMOIZATION = recursion + memory
+# f(n) = f(n-1) + f(n-2)
 
 def fib_memo(n, memo=None):
     if memo is None:

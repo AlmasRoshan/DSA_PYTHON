@@ -1,4 +1,7 @@
 # RECURSION
+# a fun which calls itself to solve the smaller version of the same problem 
+# base case: a condition to stop
+# first write base case then recursive case
 
 def  countdown(n):
     # base case (stop here)
